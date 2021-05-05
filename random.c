@@ -3,6 +3,12 @@
 #include <time.h>
 #include <stdbool.h>
 #include <string.h>
+#include "random.h"
+
+void print_random()
+{	
+        puts("function random");
+}
 
 int main()
 {
