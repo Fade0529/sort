@@ -1,5 +1,11 @@
+#include "f1.h"
 #include <stdio.h>
 #include <sys/time.h>
+
+void pirntf_f1(){
+    puts("functoin f1");
+}
+
 
 void swap(int *a, int *b){
     int temp = *a;
