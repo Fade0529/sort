@@ -6,9 +6,9 @@
 
 int main()
 {       print_random();
-	puts("function main");
-        print_f1();
-	puts("function main");
+        
+        quick_main();
+	
         print_f2();
 	puts("function main");
         print_f3();
