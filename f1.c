@@ -31,7 +31,7 @@ void QuickSort(int *arr, int front, int end){
         QuickSort(arr, pivot + 1, end);
     }
 }	
-int main()
+int quick_main()
 {
 	FILE *fp;
 	struct timeval start;
